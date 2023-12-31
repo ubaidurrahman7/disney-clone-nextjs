@@ -10,6 +10,10 @@ const nextConfig = {
         protocol: "https",
         hostname: "linkds.papareact.com",
       },
+      {
+        protocol: "https",
+        hostname: "links.papareact.come",
+      },
     ],
   },
 };
